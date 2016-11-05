@@ -1,0 +1,93 @@
+动画
+
+	scale 缩放
+	translate 运动
+	rotate 旋转
+	skew 斜切
+	
+	translate取值:ease：（逐渐变慢）默认值，等同于贝塞尔曲线(0.25, 0.1, 0.25, 1.0).          linear：（匀速），等同于贝塞尔曲线(0.0, 0.0, 1.0, 1.0).    ease-in：(加速)，等同于贝塞尔曲线(0.42, 0, 1.0, 1.0).                                ease-out：（减速），等同于贝塞尔曲线(0, 0, 0.58, 1.0)   ease-in-out：（加速然后减速），等同于贝塞尔曲线(0.42, 0, 0.58, 1.0)  
+	
+	属性值：translation-property改变的属性值
+			translation-dely延时
+			translate-timing-function:变化的样式
+			translate-duration持续时间
+			
+	animation：
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

@@ -1,0 +1,3 @@
+window.innerWidth	获取手机视口的宽度
+
+window。innerHeight  获取手机的视口的高度   

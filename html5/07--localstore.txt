@@ -1,0 +1,11 @@
+Storage是否发生变化的监听方法storage（）；
+
+		storage（event）event有很多属性 
+		例如：	event.key
+				event.oldvalue(以前的value)
+				event.newvalue(新的value)
+				event.url(链接)
+				event.storageArea(存储)
+				
+				
+		

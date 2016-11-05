@@ -1,0 +1,4 @@
+1 phone
+2 安卓4.2以下，例如华为某款
+3 测试技术
+4 用debuggap和chorme的inspect

@@ -1,0 +1,7 @@
+1.设置width的长度
+2.设置overflow：hidden
+3.设置text-overflow:ellipsis
+4.设置white-space:nowrap
+
+
+完成以上之后设置文字在中间：margin：0 auto；

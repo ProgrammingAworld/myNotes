@@ -1,0 +1,142 @@
+2016/11/03 09:58:03 [error] 396#1132: *1 CreateFile() "C:\Users\Administrator\Desktop\nginx-1.10.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2016/11/03 09:59:59 [error] 396#1132: *9 CreateFile() "C:\Users\Administrator\Desktop\nginx-1.10.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2016/11/03 10:00:13 [notice] 8308#6752: signal process started
+2016/11/03 10:01:39 [emerg] 5648#6124: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/11/03 10:03:15 [emerg] 7916#5708: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/11/03 10:03:31 [emerg] 7848#7860: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/11/03 10:04:12 [emerg] 7908#7112: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/11/03 10:10:33 [emerg] 7028#7732: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/11/03 10:29:03 [error] 4516#1632: *1 CreateFile() "D:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2016/11/03 11:10:52 [emerg] 7608#7036: FindFirstFile() "D:
+ginx\conf\conf.d\*.conf" failed (123: The filename, directory name, or volume label syntax is incorrect) in D:\nginx/conf/nginx.conf:36
+2016/11/03 11:10:52 [alert] 6604#2968: worker process 7608 exited with code 1
+2016/11/03 11:10:52 [alert] 6604#2968: could not respawn worker
+2016/11/03 11:12:11 [emerg] 3640#7716: FindFirstFile() "D:
+ginx\conf\conf.d\*.conf" failed (123: The filename, directory name, or volume label syntax is incorrect) in D:\nginx/conf/nginx.conf:36
+2016/11/03 11:13:46 [warn] 504#7396: "user" is not supported, ignored in D:\nginx/conf/nginx.conf:3
+2016/11/03 11:13:46 [emerg] 504#7396: FindFirstFile() "D:
+ginx\conf\conf.d\*.conf" failed (123: The filename, directory name, or volume label syntax is incorrect) in D:\nginx/conf/nginx.conf:36
+2016/11/03 11:13:58 [emerg] 4676#6952: FindFirstFile() "D:
+ginx\conf\conf.d\*.conf" failed (123: The filename, directory name, or volume label syntax is incorrect) in D:\nginx/conf/nginx.conf:36
+2016/11/03 11:15:27 [emerg] 7632#1616: FindFirstFile() "D:
+ginx\conf\conf.d\*.conf" failed (123: The filename, directory name, or volume label syntax is incorrect) in D:\nginx/conf/nginx.conf:36
+2016/11/03 11:16:14 [error] 1164#3760: *1 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:18:43 [error] 6812#7696: *3 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:18:46 [error] 6812#7696: *5 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:18:46 [error] 6812#7696: *5 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:19:07 [error] 7532#7716: *7 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:19:09 [error] 7532#7716: *7 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:19:10 [error] 7532#7716: *7 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:19:10 [error] 7532#7716: *7 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:19:10 [error] 7532#7716: *7 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:19:10 [error] 7532#7716: *7 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:19:10 [error] 7532#7716: *7 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:21:29 [error] 6376#4156: *1 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:22:24 [error] 6376#4156: *4 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:22:25 [error] 6376#4156: *6 "D:/HBuilder/bootstrap/back/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:23:36 [error] 5848#5648: *9 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2016/11/03 11:24:12 [error] 5848#5648: *14 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2016/11/03 11:24:33 [error] 5848#5648: *20 CreateFile() "D:/HBuilder/bootstrap/back/index.html/v2" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:26:27 [error] 4028#5708: *26 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "localhost:8080"
+2016/11/03 11:26:32 [error] 4028#5708: *26 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2016/11/03 11:29:02 [notice] 4980#1288: signal process started
+2016/11/03 11:29:02 [error] 4980#1288: OpenEvent("Global\ngx_stop_1928") failed (2: The system cannot find the file specified)
+2016/11/03 12:07:16 [emerg] 3624#5892: directive "location" has no opening "{" in D:/nginx/conf/conf.d/hello.conf:14
+2016/11/03 12:09:14 [emerg] 7956#5624: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/11/03 12:11:49 [notice] 6484#4516: signal process started
+2016/11/03 12:14:54 [notice] 6728#6404: signal process started
+2016/11/03 12:19:29 [notice] 7800#6736: signal process started
+2016/11/03 12:20:46 [notice] 2684#8072: signal process started
+2016/11/03 12:20:49 [emerg] 5100#5004: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/11/03 12:21:12 [notice] 1080#2664: signal process started
+2016/11/03 12:21:12 [error] 1080#2664: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/11/03 13:13:43 [notice] 6272#6568: signal process started
+2016/11/03 13:15:47 [error] 5184#6960: *1 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2016/11/03 13:16:07 [notice] 6956#5164: signal process started
+2016/11/03 13:17:41 [notice] 3324#1152: signal process started
+2016/11/03 13:19:04 [notice] 6552#6496: signal process started
+2016/11/03 13:19:50 [emerg] 1396#7544: FindFirstFile() "D:
+ginx\conf\conf.d\*.conf" failed (123: The filename, directory name, or volume label syntax is incorrect) in D:\nginx/conf/nginx.conf:36
+2016/11/03 13:20:25 [notice] 5504#6444: signal process started
+2016/11/03 13:22:38 [error] 6272#6228: *1 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 13:22:39 [error] 6272#6228: *1 CreateFile() "D:/HBuilder/bootstrap/back/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /favicon.ico HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 13:22:49 [error] 6272#6228: *7 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 13:23:23 [notice] 7440#5272: signal process started
+2016/11/03 13:23:48 [error] 7516#7408: *3 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 13:24:07 [error] 7516#7408: *4 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2016/11/03 13:24:28 [error] 7516#7408: *10 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2016/11/03 13:25:17 [notice] 8044#5808: signal process started
+2016/11/03 13:26:23 [notice] 7180#6132: signal process started
+2016/11/03 13:26:23 [error] 7180#6132: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/11/03 13:28:01 [error] 6888#8152: *1 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 13:28:03 [error] 6888#8152: *4 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2016/11/03 13:28:07 [notice] 2664#5040: signal process started
+2016/11/03 13:28:17 [notice] 5008#6400: signal process started
+2016/11/03 13:28:17 [error] 5008#6400: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/11/03 13:29:59 [emerg] 7632#7812: directive "location" has no opening "{" in D:/nginx\conf/conf.d/hello.conf:14
+2016/11/03 13:30:52 [emerg] 7316#7280: unexpected "}" in D:/nginx\conf/conf.d/hello.conf:15
+2016/11/03 13:31:35 [emerg] 4736#5888: directive "location" has no opening "{" in D:/nginx\conf/conf.d/hello.conf:14
+2016/11/03 13:40:19 [emerg] 7176#7852: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/11/03 13:40:36 [emerg] 7180#6936: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/11/03 13:40:40 [notice] 7100#5388: signal process started
+2016/11/03 13:40:40 [error] 7100#5388: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/11/03 13:40:42 [notice] 6712#5272: signal process started
+2016/11/03 13:40:42 [error] 6712#5272: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/11/03 13:40:46 [emerg] 5308#7276: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/11/03 13:40:55 [emerg] 3508#7656: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/11/03 13:41:34 [emerg] 7732#1544: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/11/03 13:42:04 [error] 7984#5872: *1 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 13:42:13 [error] 7984#5872: *4 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:42:57 [error] 7984#5872: *10 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:42:58 [error] 7984#5872: *10 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:42:58 [error] 7984#5872: *10 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:42:59 [error] 7984#5872: *10 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:42:59 [error] 7984#5872: *10 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:42:59 [error] 7984#5872: *10 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:42:59 [error] 7984#5872: *10 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:42:59 [error] 7984#5872: *10 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:43:00 [error] 7984#5872: *10 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:43:00 [error] 7984#5872: *10 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:43:21 [error] 7984#5872: *11 "D:/HBuilder/bootstrap/back/v2/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2/ HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:43:28 [error] 7984#5872: *17 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 13:43:33 [error] 7984#5872: *17 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:44:13 [error] 7984#5872: *23 CreateFile() "D:/HBuilder/bootstrap/back/api" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /api HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 13:45:27 [error] 7984#5872: *29 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 13:45:29 [notice] 6736#6836: signal process started
+2016/11/03 13:45:48 [error] 7252#5808: *1 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 13:45:49 [error] 7252#5808: *1 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 13:45:57 [error] 7252#5808: *7 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 14:09:04 [notice] 7356#4052: signal process started
+2016/11/03 14:32:45 [notice] 748#3268: signal process started
+2016/11/03 14:32:45 [error] 748#3268: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/11/03 14:37:55 [notice] 804#5684: signal process started
+2016/11/03 14:39:55 [notice] 5908#4932: signal process started
+2016/11/03 14:41:03 [error] 5988#5996: *2 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 14:41:03 [error] 5988#5996: *4 CreateFile() "D:/HBuilder/bootstrap/back/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /favicon.ico HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 14:41:15 [notice] 5860#3160: signal process started
+2016/11/03 14:42:25 [notice] 5212#5144: signal process started
+2016/11/03 14:42:25 [error] 5212#5144: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/11/03 14:42:32 [error] 5688#5964: *1 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 14:43:00 [error] 5688#5964: *1 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 14:43:03 [error] 5688#5964: *1 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 14:43:04 [error] 5688#5964: *1 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 14:43:04 [error] 5688#5964: *1 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 14:43:32 [error] 5688#5964: *1 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 14:43:45 [error] 5688#5964: *1 CreateFile() "D:/HBuilder/bootstrap/back/v2" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /v2 HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 14:52:46 [emerg] 6200#6260: directive "location" has no opening "{" in D:/nginx/conf/conf.d/hello.conf:14
+2016/11/03 14:52:59 [emerg] 2592#6996: directive "location" has no opening "{" in D:/nginx/conf/conf.d/hello.conf:14
+2016/11/03 14:53:23 [emerg] 2324#468: directive "location" has no opening "{" in D:/nginx/conf/conf.d/hello.conf:14
+2016/11/03 14:55:13 [notice] 5140#6860: signal process started
+2016/11/03 14:55:56 [error] 3428#1264: *1 directory index of "D:/HBuilder/bootstrap/back/images/" is forbidden, client: 127.0.0.1, server: hello.dev, request: "GET /images/ HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 14:58:58 [error] 3428#1264: *12 CreateFile() "D:/HBuilder/bootstrap/back/api.hello.dev" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /api.hello.dev HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 15:00:14 [error] 3428#1264: *20 CreateFile() "D:/HBuilder/bootstrap/back/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /favicon.ico HTTP/1.1", host: "api.hello.dev:8080", referrer: "http://api.hello.dev:8080/"
+2016/11/03 15:00:14 [error] 3428#1264: *20 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "api.hello.dev:8080", referrer: "http://api.hello.dev:8080/"
+2016/11/03 15:01:50 [error] 3428#1264: *22 CreateFile() "D:/HBuilder/bootstrap/back/api" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /api HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 15:04:00 [error] 3428#1264: *25 CreateFile() "D:/HBuilder/bootstrap/back/api/list.json" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: hello.dev, request: "GET /api/list.json HTTP/1.1", host: "hello.dev:8080"
+2016/11/03 15:04:06 [emerg] 5148#4124: host not found in upstream "api" in D:/nginx/conf/conf.d/hello.conf:17
+2016/11/03 15:12:35 [emerg] 6572#6608: host not found in upstream "api" in D:/nginx/conf/conf.d/hello.conf:17
+2016/11/03 15:13:22 [notice] 4392#7104: signal process started
+2016/11/03 15:19:19 [notice] 6240#5060: signal process started
+2016/11/03 15:19:32 [error] 5272#6840: *1 CreateFile() "D:/HBuilder/bootstrap/back/images/products/{{item.id}}.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: hello.dev, request: "GET /images/products/%7B%7Bitem.id%7D%7D.jpg HTTP/1.1", host: "hello.dev:8080", referrer: "http://hello.dev:8080/"
+2016/11/03 15:23:50 [notice] 3068#5148: signal process started
+2016/11/03 16:16:57 [notice] 5432#1808: signal process started

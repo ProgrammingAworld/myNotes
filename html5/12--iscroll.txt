@@ -1,0 +1,2 @@
+iscroll 的方法
+		refresh（）重新计算页面的高度

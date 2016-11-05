@@ -1,0 +1,27 @@
+<div class="table-responsive">
+   <form>
+      <p>商品搜索：</p>
+      <input type="text" class="form-control" ng-model="searchText">
+      <!-- <button type="button" class="btn btn-success">Search</button> -->
+   </form>
+   <table class="table">
+      <caption>商品列表</caption>
+      <tr class="success">
+         <th>图片</th>
+         <th>介绍</th>
+         <th>价格</th>
+         <th>操作</th>
+      </tr>
+      <tr ng-repeat="item in items|filter:searchText" ng-class="$index%2==0?'warning':'info'">
+         <th>
+            <img src="/images/products/{{item.id}}.jpg" alt="{{item.id}}">
+         </th>
+         <th>
+            <a href="#/detail/{{item.id}}">{{item.name}}</a>
+            <p>{{item.desc}}</p>
+         </th>
+         <th>{{item.price}}</th>
+         <th><a href="" class="text-success">加入购物车</a></th>
+      </tr>
+   </table>
+</div>

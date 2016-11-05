@@ -1,0 +1,15 @@
+commonJs
+
+移动端开发需要安装的插件：
+	gulp webpack(模块开发工具) zepto(移动端jquery) iscroll(用于滑动事件) swiper(移动端的插件用于轮播图)
+	Yo(用于移动端兼容问题，具体方法在styles的lib下的classes.scss中用到的时候可以去查找)
+	
+	
+	
+	Yo的用法，下载完成之后把lib和usage复制到styles的文件夹下即可
+	要写的网页的主体scss写在module中，可以在usage下新建common文件夹写一些公共样式，在page文件夹下的app.scss是对所有样式的引用
+	
+	
+	下拉刷新用的是：pull-to-refresh-master框架
+	
+	左右滑动用的是：swiper模板

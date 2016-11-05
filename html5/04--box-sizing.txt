@@ -1,0 +1,10 @@
+
+
+box-sizing:border-box(移动端必用)  content-box  padding-box
+
+columns：多列布局
+		属性：columns：设置列数
+			  columns-gap间隙
+			  columns-rule列之间线的宽度
+			  
+			  

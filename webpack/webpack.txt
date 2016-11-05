@@ -1,0 +1,24 @@
+webpack安装和使用
+  1. cnpm i webpack -g全局安装
+  
+  2. cnpm i webpack -D本地安装
+  
+  3.webpack entry.js  bundle.js(把entry.js编译成bundle.js) 
+  
+  4. cnpm i css-loader style-loader -D(加载css文件)
+  
+  5. 配置webpack的配置文件
+  
+  6. cnpm i webpack --devtool source-map -D打开文件树
+  
+  7. cnpm i webpack-dev-server -g全局安装(webpack的服务)
+  
+  8. cnpm i webpack-dev-server -D本地安装
+  
+  9.webpack-dev-server --inline --hot -D(监听，可以写到package.json中的build中)
+  
+  10.cnpm i babel-loader babel-preset-es2015 babel-core babel-preset-react -D
+  11. cpnm i json-server -g全局安装  用于mock数据(json-server 'mock的路径' --port 8888)；
+  
+  
+  

@@ -1,0 +1,39 @@
+详见官网
+
+1. cnpm i corvoda -g全局安装
+2. cordova create hello com.example.hello hello创建文件夹（在配置文件中可以修z改）
+3. cordova platform ls 查看安装的平台（如果没有安装会推荐安装）
+4. cordova platform add android --save(注意：-D的前提是有package.json)
+
+安装jdk和sdk
+
+5. 环境变量的配置：JAVA_HOME jdk的目录 ANDROID_HOME sdk的目录
+
+6. cordova build android(android可以不写，他会自己找)
+
+(要把自己的程序放到www文件夹下)
+7. cordova run android --device（打包到手机，要先连接手机）
+
+8.插件的安装（plugin）：可在 http://cordova.apache.org中寻找
+
+例如：http://cordova.apache.org/docs/en/6.x/reference/cordova-plugin-camera/ 调用照相机的插件
+
+
+查看端口 netstat -ano|findstr 要寻找的端口号
+
+
+调试工具：1）在谷歌浏览器地址栏打开：chorme://inspect  
+  2). weinre（依赖npm cnpm i weinre -g）
+   可以执行下面的命令来启动：
+   weinre --httpPort 8080 --boundHost -all-   degugger
+   把页面中的example中的script copy到入口文件中
+   让手机和电脑在同一个网段中（链接到同一个wlan即可）
+   改webpack的配置 把host配置成本机的链接的wlan的ip
+   可以在浏览器中看到手机浏览到的网页的html结构
+  在浏览器打开   本机链接wlan的ip
+  3).degugger  debuggap.com(官网)
+  
+  下载软件  把下载的文件下的script中的debuggap.js复制到入口文件中
+  把下载的app打开
+  配置webpack的host，改成链接的网段的ip
+  手机也要配置

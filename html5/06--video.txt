@@ -1,0 +1,5 @@
+video
+
+poster属性在视频没有加载出之前会显示
+
+overflow:scroll

@@ -1,0 +1,14 @@
+true是逆时针，false是顺时针
+
+先fill在stroke
+
+线条属性
+
+线条两端的样式 lineCap:butt（默认），round（圆型），square（方形样式和原来的一样，但是相对于原来变长了）； 
+
+moveTo()可以省略，从第一个lineTo的开始默认是moveTo
+
+lineJoin  ：定义链接处的属性
+		miter：默认
+		round：链接处变成圆角样式
+		bevel：

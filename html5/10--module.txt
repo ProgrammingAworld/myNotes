@@ -1,0 +1,3 @@
+commonJs同步
+
+AMD 异步 （他是规范require.js是对他的实现）
